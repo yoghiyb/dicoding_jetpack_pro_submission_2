@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="tab_title_movie">Movie</string>
+    <string name="tab_title_tv_show">TV Show</string>
+    <string name="toolbar_title_detail_movie">Detail Movie</string>
+    <string name="toolbar_title_detail_tv_show">Detail TV Show</string>
+
+    <string name="desc_image_highlight">Image Highlight</string>
+    <string name="lb_description">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
